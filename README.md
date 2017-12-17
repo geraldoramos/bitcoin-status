@@ -9,15 +9,20 @@ A menu bar application using [Electron](https://github.com/electron) that update
 
 ## Downloading the app
 
-To download the app, click [here]() (currently only available for macOS)
+To download the app, click [here](https://github.com/geraldoramos/bitcoin-status/raw/master/dist/bitcoin-status-1.0.0.dmg) (currently available for macOS only)
 
-## Running locally
+PS: The app is not signed yet, a security notice may appear. If you prefer to build the app on your machine, follow the next part.
+
+## Build the app locally
 
 **First, clone this repo:**
  ```git clone https://github.com/geraldoramos/bitcoin-status.git```
 
 **Then:**
 ```npm install & npm start```
+
+**If you want to create a dmg file using electron builder:**
+```electron-builder```
 
 
 ## License
