@@ -1,7 +1,7 @@
 {
   "name": "bitcoin-status",
   "version": "1.0.0",
-  "description": "A status bar app that updates bitcoin price",
+  "description": "A menu bar app that updates bitcoin price",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
