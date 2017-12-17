@@ -1,10 +1,6 @@
 version: 1.0.0
-files:
-  - url: bitcoin-status-1.0.0-mac.zip
-    sha512: GXpkNMSep5TfXK00V4dGQQywrVwwyIdPnVL535TzKhWEPq+DHJVHeBXu1lPrCxP7mo85yhmwO5EN6EXlPQMcxA==
-  - url: bitcoin-status-1.0.0.dmg
-    sha512: uunUQNZPTIGF337gXKLvD+8EbRo6/zcsdZ5ESlcGRkya9uqoYd33uVo9TbZ7eoRE0BFvY5FbgRS4dwGYIaTv1w==
-    size: 48691572
+releaseDate: '2017-12-17T07:20:02.784Z'
 path: bitcoin-status-1.0.0-mac.zip
-sha512: GXpkNMSep5TfXK00V4dGQQywrVwwyIdPnVL535TzKhWEPq+DHJVHeBXu1lPrCxP7mo85yhmwO5EN6EXlPQMcxA==
-releaseDate: '2017-12-17T06:57:21.797Z'
+sha512: >-
+  JWpp739K4PE/SJKzMwv7WdT6HWKD86vvd7RFPYV/Pe2oty4L+6ISky3Si+eYsUfef1hmiIV+bPxD8lZ3n2H4gQ==
+githubArtifactName: bitcoin-status-1.0.0-mac.zip

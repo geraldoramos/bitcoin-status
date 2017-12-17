@@ -28,7 +28,8 @@
     "appId": "Bitcoin Status",
     "mac": {
       "category": "public.app-category.developer-tools",
-      "icon": "assets/mac_icon.icns"
+      "icon": "assets/mac_icon.icns",
+      "publish": ["github"]
     },
     "dmg": {
       "background": "assets/background.tiff"
