@@ -16,13 +16,19 @@ PS: The app is not signed yet, a security notice may appear. If you prefer to bu
 ## Build the app locally
 
 **First, clone this repo:**
- ```git clone https://github.com/geraldoramos/bitcoin-status.git```
+ ```
+git clone https://github.com/geraldoramos/bitcoin-status.git
+cd bitcoin-status
+ ```
 
 **Then:**
-```npm install & npm start```
+```npm install && npm start```
 
-**If you want to create a dmg file using electron builder:**
-```electron-builder```
+**To create a dmg file using electron builder:**
+```
+rm -rf dist
+electron-builder
+```
 
 
 ## License
