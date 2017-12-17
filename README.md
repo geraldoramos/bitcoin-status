@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40geraldoramos)](https://twitter.com/geraldoramos)
 
-A menu bar application using [Electron](https://github.com/electron) that updates bitcoin price in real-time. Prices are updated every minute.
+A menu bar application built using [Electron](https://github.com/electron) that updates bitcoin price in real-time. Pricing data is updated every minute.
 
 <p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/bitcoin-status.gif?alt=media&token=31c2e737-8291-4e06-bafc-65ea02397718" width="600"/></p>
 
