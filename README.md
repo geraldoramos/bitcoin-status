@@ -21,8 +21,10 @@ git clone https://github.com/geraldoramos/bitcoin-status.git
 cd bitcoin-status
  ```
 
-**Then:**
-```npm install && npm start```
+**Then install and launch using NPM:**
+```
+npm install && npm start
+ ```
 
 **To create a dmg file using electron builder:**
 ```
