@@ -1,0 +1,37 @@
+{
+  "name": "bitcoin-status",
+  "version": "1.0.0",
+  "description": "A status bar app that updates bitcoin price",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "repository": "https://github.com/geraldoramos/bitcoin-status",
+  "keywords": [
+    "Bitcoin",
+    "Cryptocurrency"
+  ],
+  "author": "@geraldoramos",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-builder": "^19.49.0"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "path": "^0.12.7"
+  },
+  "build": {
+    "asar": true,
+    "appId": "Bitcoin Status",
+    "mac": {
+      "category": "public.app-category.developer-tools",
+      "icon": "assets/mac_icon.icns"
+    },
+    "dmg": {
+      "background": "assets/background.tiff"
+    }
+  }
+}
